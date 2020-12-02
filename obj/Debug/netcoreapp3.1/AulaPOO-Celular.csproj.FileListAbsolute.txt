@@ -1,0 +1,13 @@
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\AulaPOO-Celular\bin\Debug\netcoreapp3.1\AulaPOO-Celular.exe
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\AulaPOO-Celular\bin\Debug\netcoreapp3.1\AulaPOO-Celular.deps.json
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\AulaPOO-Celular\bin\Debug\netcoreapp3.1\AulaPOO-Celular.runtimeconfig.json
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\AulaPOO-Celular\bin\Debug\netcoreapp3.1\AulaPOO-Celular.runtimeconfig.dev.json
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\AulaPOO-Celular\bin\Debug\netcoreapp3.1\AulaPOO-Celular.dll
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\AulaPOO-Celular\bin\Debug\netcoreapp3.1\AulaPOO-Celular.pdb
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\AulaPOO-Celular\obj\Debug\netcoreapp3.1\AulaPOO-Celular.csprojAssemblyReference.cache
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\AulaPOO-Celular\obj\Debug\netcoreapp3.1\AulaPOO-Celular.AssemblyInfoInputs.cache
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\AulaPOO-Celular\obj\Debug\netcoreapp3.1\AulaPOO-Celular.AssemblyInfo.cs
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\AulaPOO-Celular\obj\Debug\netcoreapp3.1\AulaPOO-Celular.csproj.CoreCompileInputs.cache
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\AulaPOO-Celular\obj\Debug\netcoreapp3.1\AulaPOO-Celular.dll
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\AulaPOO-Celular\obj\Debug\netcoreapp3.1\AulaPOO-Celular.pdb
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\AulaPOO-Celular\obj\Debug\netcoreapp3.1\AulaPOO-Celular.genruntimeconfig.cache
